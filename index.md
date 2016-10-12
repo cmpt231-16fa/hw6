@@ -8,4 +8,5 @@ ext-js: "https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=AM_CHTML"
 {% include policies.md %}
 
 ### HW6 (20pts)
+
 1. *(5pts)* 
