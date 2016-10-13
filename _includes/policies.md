@@ -9,3 +9,10 @@
 + If there are extenuating circumstances, contact the instructor as soon
 as possible to make arrangements.
 
+### References:
++ If you find a resource helpful (from internet search, blog post, Stack Overflow, online courses, etc), be sure to cite it.  Citation format doesn't matter, just make it easy for the TA to find the source: e.g., a clickable link in a Word or HTML document.
++ Code / pseudocode should be your own work. It is ok to learn from code you find online, but after you understand how the algorithm works, write up your solution on your own.
++ Assume a basic machine model similar to what was discussed in Lecture 1.
+  If a standard library function (e.g., in Python) obviates the bulk of
+  a question (e.g., calling Python's `sorted()` when the point of the
+  question is to implement a sort), then don't use it.
