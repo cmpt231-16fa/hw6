@@ -11,7 +11,8 @@ as possible to make arrangements.
 
 ### References:
 + If you find a resource helpful (from **internet search**, blog post,
-  Stack Overflow, online courses, etc), be sure to **cite** it.
+  Stack Overflow, online courses, our lecture notes, etc),
+  be sure to **cite** it.
   Citation format doesn't matter, but make it easy for the TA
   to **find** the source: e.g., a clickable link.
 + Code / pseudocode should be your **own work**.
