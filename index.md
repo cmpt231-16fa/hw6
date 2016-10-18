@@ -9,9 +9,9 @@ ext-js: "https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=AM_CHTML"
 
 ### HW6 (20pts)
 
-1. *(5pts)*  (Hand-simulation of red-black)
-2. Consider an empty **B-tree** of *k=3*.
+1. Consider an empty **B-tree** of *t=3*.
   + (a) *(4pts)* Show the tree after the following character keys have been inserted in order:
     ` `
   + (b) *(1pt)* Show the tree after deleting `D`.
+2. *(5pts)* (theory on B-tree)
 3. *(10pts)*  (small programming project)
