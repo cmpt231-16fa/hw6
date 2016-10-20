@@ -11,7 +11,7 @@ ext-js: "https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=AM_CHTML"
 
 1. Consider an empty **B-tree** of *t=2*.
   + (a) *(3pts)* Demonstrate **insertion** of the following character keys
-    in order: `D H T L S M V X K Z Q`
+    in order: <br/> `D H T L S M V X K Z Q`
   + (b) *(1pt)* How many **splits** were needed in part (a)?
   + (c) *(1pt)* Show the tree after **deleting** `M`.
 2. *(2pts)* Derive the **maximum** number of keys that can be stored in a B-tree (including internal nodes, not a B+-tree), in terms of *t* and the height *h*.  Show your work.
