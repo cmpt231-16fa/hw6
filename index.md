@@ -20,4 +20,9 @@ ext-js: "https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=AM_CHTML"
   + (a) *(1pt)* What is the largest value of *t* for a **B-tree** with such nodes? (In reality, the *header* also takes up some space, but you can ignore that.)
   + (b) *(1pt)* A 3-bit field tracks the **height** of each node, which means the B-tree can have at most 8 levels. Approximately how many **keys** can be stored in such a B-tree?
   + (c) *(1pt)* Compute the maximum number of **key comparisons** that need to be done in order to find a key in such a B-tree. How many **disk accesses** (fetching nodes/blocks from disk)?
-3. *(9pts)*  (small programming project)
+3. **Programming Project**: Implement a B-tree for integer keys. Use pre-emptive split/merge as described in lecture.  You may limit yourself to *t* &le; 10 if it makes things easier. The policies stated above for programming assignments apply.  Your code should have:
+  + (a) *(2pts)*  **Class** definitions and **constructors** for a single node and for the tree as a whole. *t* should be a parameter the user can set when instantiating the tree.
+  + (b) *(3pts)* `insert( key )`: the return value should be the number of **disk accesses** needed (excluding the root node). If the key already exists, don't modify the tree.
+  + (c) *(1pt)* `size()`: return the number of keys currently stored in the tree.
+  + (d) *(3pts)* **Pre-order** and **in-order** tree traversals to print out the tree. (In-order traversal should print the keys in order.) You may use these to verify insertion works correctly.
+  + (e) *(2pts)* **Extra credit** (optional): `delete( key )`, returning the number of disk accesses. Handle non-existent key gracefully.
