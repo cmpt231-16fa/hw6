@@ -8,7 +8,7 @@ ext-js: "https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=AM_CHTML"
 {% include policies.md %}
 {% include programming.md %}
 
-### HW6 (20pts)
+### HW6 (20pts) [(solutions)](solns)
 
 1. Consider an empty **B-tree** of *t=2*.
   + (a) *(3pts)* Demonstrate **insertion** of the following character keys
