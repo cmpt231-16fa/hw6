@@ -15,9 +15,9 @@ ext-js: "https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=AM_CHTML"
 
   5
 
-+ (1c) *(1pt)* Show the tree after deleting `H`.
++ (1c) *(1pt)* Show the tree after deleting `M`.
 
-  By level: S / L + V / DK + MQ + T + XZ
+  By level: S / HL + V / D + K + Q + T + XZ
 
 + (2) *(2pts)* Max number of keys:
 
