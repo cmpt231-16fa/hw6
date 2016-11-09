@@ -19,6 +19,9 @@ ext-js: "https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=AM_CHTML"
 
   By level: S / HL + V / D + K + Q + T + XZ
 
+  (This was a typo; I intended the question to delete H,
+  which would have been more interesting.)
+
 + (2) *(2pts)* Max number of keys:
 
   Root node has \`2t-1\` keys and \`2t\` children. <br/>
