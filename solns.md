@@ -19,8 +19,9 @@ ext-js: "https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=AM_CHTML"
 
   By level: S / HL + V / D + K + Q + T + XZ
 
-  (This was a typo; I intended the question to delete H,
-  which would have been more interesting.)
+  (This was a typo; I intended the question to delete H:)
+
+  By level: S / L + V / DK + MQ + T + XZ
 
 + (2) *(2pts)* Max number of keys:
 
